@@ -1,0 +1,6 @@
+#Step 1: ffmpeg should be downloaded and map in your workstation's PATH Environment
+
+#Step 2: pip install streamlit sounddevice wavio openai-whisper deep-translator gTTS
+
+
+streamlit sounddevice wavio openai-whisper deep-translator gTTS
